@@ -1,1 +1,0 @@
-console.log("What is a static file?");
